@@ -5,7 +5,8 @@ Sistema full-stack de planejamento inteligente que combina listas de tarefas, an
 ---
 
 ## 🌴 Ambientes Produtivos
-Frontend(Deploy feito na Vercel): https://marcio-todolist.vercel.app
+Frontend(Deploy feito na Vercel): https://marcio-todolist.vercel.app  
+
 Backend(Deploy de imagem em ACR privado rodando sobre Azure Container App): https://capp-marcio-todolist.agreeabledune-669790b3.brazilsouth.azurecontainerapps.io
 
 ## 🏗️ Arquitetura (alto nível)
